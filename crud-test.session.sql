@@ -6,4 +6,4 @@ CREATE TABLE things(
 );
 
 
-----INSERT INTO things (body) VALUES ('Hello, backend!');
+INSERT INTO things (body) VALUES ('Hello, backend!');
